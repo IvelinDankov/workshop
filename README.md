@@ -1,27 +1,24 @@
-# Workshop
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Start within app
+- [ ] - in app.config.ts make your providers to be providersHTTPClient to be function
+- [ ] - in app.component clear default html
+- [ ] - Write title and check if it works.
+- [ ] - Go in folder workshop and write ng serve --open
+- [ ] - make a constructor in app.components.ts
+- [ ] - http Client
+- [ ] - in folder app make new folder core.
+- [ ] - generate in folder core two component
+header and footer.
+- [ ] - Go to app.com.html and put app-header & app-footer inside
+- [ ] - Generate in App folder main component.
+- [ ] - Go to main.comp.ts and copy component name in put in app.comp 
+- [ ] - put in app.comp.html
+- [ ] - Generate themes-list & posts-list in app folder again.
+- [ ] - In main html add app-themes-list and app-posts-list in a container wrapper
+- [ ] - Go to resorces folder and start to copy and paste recorses
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
