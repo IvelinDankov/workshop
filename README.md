@@ -14,11 +14,11 @@ header and footer.
 - [ ] - put in app.comp.html
 - [ ] - Generate themes-list & posts-list in app folder again.
 - [ ] - In main html add app-themes-list and app-posts-list in a container wrapper
-- [ ] - Go to resorces folder and start to copy and paste recorses
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] - Go to resource folder and start to copy and paste resource
+- [ ] - After all is copied you need to go back to. 
+- [ ] - create in src folder environments ng g environments 
+- [ ] - Add post service in post list. 
+- [ ] - Make in app folder api.service
+- [ ] - 
 - [ ] -
 - [ ] -
